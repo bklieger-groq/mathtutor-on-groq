@@ -68,4 +68,4 @@ See [CHANGELOG.md](CHANGELOG.md) to see the latest changes and versions. Major v
 
 ## Credits
 
-This app was developed by [Benjamin Klieger](https://x.com/benjaminklieger) at [Groq](https://groq.com) and uses the xRx framework created by 8090 Solutions: [Github Repository](https://github.com/8090-inc/xrx-core).
+This app was developed by Benjamin Klieger at [Groq](https://groq.com) and uses the xRx framework created by 8090 Solutions: [Github Repository](https://github.com/8090-inc/xrx-core).
